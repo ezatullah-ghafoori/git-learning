@@ -1,0 +1,3 @@
+func main (){
+	// Empty function
+}
