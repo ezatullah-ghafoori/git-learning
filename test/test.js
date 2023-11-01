@@ -1,1 +1,0 @@
-console.log("The JS file has been changed");
